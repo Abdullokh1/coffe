@@ -11,7 +11,7 @@
 body {
   background-color: #fefcf7;
   font-family: 'Fraunces', sans-serif;
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
 }
 .container{
   width: 1320px;
