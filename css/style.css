@@ -923,7 +923,7 @@ body {
   .work__item--thirdpage{
     margin-bottom: -40px;
     width: 100vw;
-    padding-top: 0;
+    padding-top: 100px;
   }
   .work__text--thirdpage{
     line-height: 25px;
